@@ -1,6 +1,8 @@
 body {
 	margin: 0;
 	font-family: Helvetica;
+	color: white;
+	background-color: #47BE46;
 }
 h1	{
 	font-weight: 100;
